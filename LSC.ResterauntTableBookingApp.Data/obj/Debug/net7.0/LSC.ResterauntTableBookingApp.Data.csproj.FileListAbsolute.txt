@@ -1,0 +1,14 @@
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\bin\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.deps.json
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\bin\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.runtimeconfig.json
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\bin\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.dll
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\bin\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.pdb
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\obj\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.csproj.AssemblyReference.cache
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\obj\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\obj\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.AssemblyInfoInputs.cache
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\obj\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.AssemblyInfo.cs
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\obj\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\obj\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.dll
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\obj\Debug\net7.0\refint\LSC.ResterauntTableBookingApp.Data.dll
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\obj\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.pdb
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\obj\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.genruntimeconfig.cache
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\LSC.ResterauntTableBookingApp.Data\obj\Debug\net7.0\ref\LSC.ResterauntTableBookingApp.Data.dll
